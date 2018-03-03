@@ -8,3 +8,4 @@
 #web_weibo_visitor_login.py
 模拟了游客登录，并具有爬取制定微博下的主评论功能
 
+功能完善中。。。
